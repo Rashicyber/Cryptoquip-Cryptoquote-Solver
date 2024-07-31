@@ -1,4 +1,4 @@
-# test_solver.py
+# tests/test_solver.py
 
 import sys
 import os
